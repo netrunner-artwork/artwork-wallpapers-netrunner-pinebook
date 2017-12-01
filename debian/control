@@ -1,0 +1,13 @@
+Source: artwork-wallpapers-netrunner-pinebook
+Section: misc
+Priority: optional
+Maintainer: Rohan Garg <rohan@kde.org>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.8
+Homepage: https://github.com/netrunner-artwork/artwork-wallpapers-netrunner-pinebooks
+
+Package: artwork-wallpapers-netrunner-pinebook
+Architecture: all
+Depends: ${misc:Depends}
+Description: artwork for netrunner-pinebook
+ This package contains wallpapers for Netrunner Desktop
